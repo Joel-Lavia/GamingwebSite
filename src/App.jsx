@@ -1,10 +1,9 @@
 import './App.css'
-import Registrations from './Pages/Registrations';
-
+import Home from './Pages/Home';
 function App() {
  return(
 <div>
-  <Registrations/>
+  <Home/>
 </div>
  );
 }
